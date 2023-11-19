@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divider", "Divider\Divider.csproj", "{598EE91C-B655-4524-A17E-6D220448BBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598EE91C-B655-4524-A17E-6D220448BBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598EE91C-B655-4524-A17E-6D220448BBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598EE91C-B655-4524-A17E-6D220448BBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598EE91C-B655-4524-A17E-6D220448BBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F9696E-D07F-44A6-AD0C-79C347FE884D}
+	EndGlobalSection
+EndGlobal

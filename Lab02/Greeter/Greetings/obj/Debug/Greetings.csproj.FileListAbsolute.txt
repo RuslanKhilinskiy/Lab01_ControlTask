@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Lab02\Greeter\Greetings\bin\Debug\Greetings.exe.config
+D:\C#Learning\Labs\Lab02\Greeter\Greetings\bin\Debug\Greetings.exe
+D:\C#Learning\Labs\Lab02\Greeter\Greetings\bin\Debug\Greetings.pdb
+D:\C#Learning\Labs\Lab02\Greeter\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Lab02\Greeter\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Lab02\Greeter\Greetings\obj\Debug\Greetings.exe
+D:\C#Learning\Labs\Lab02\Greeter\Greetings\obj\Debug\Greetings.pdb

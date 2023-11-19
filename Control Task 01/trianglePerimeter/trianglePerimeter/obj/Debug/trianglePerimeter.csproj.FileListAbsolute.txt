@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Control Task 01\trianglePerimeter\trianglePerimeter\obj\Debug\trianglePerimeter.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Control Task 01\trianglePerimeter\trianglePerimeter\obj\Debug\trianglePerimeter.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Control Task 01\trianglePerimeter\trianglePerimeter\bin\Debug\trianglePerimeter.exe.config
+D:\C#Learning\Labs\Control Task 01\trianglePerimeter\trianglePerimeter\bin\Debug\trianglePerimeter.exe
+D:\C#Learning\Labs\Control Task 01\trianglePerimeter\trianglePerimeter\bin\Debug\trianglePerimeter.pdb
+D:\C#Learning\Labs\Control Task 01\trianglePerimeter\trianglePerimeter\obj\Debug\trianglePerimeter.exe
+D:\C#Learning\Labs\Control Task 01\trianglePerimeter\trianglePerimeter\obj\Debug\trianglePerimeter.pdb
